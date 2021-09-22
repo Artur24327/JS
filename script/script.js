@@ -1,2 +1,3 @@
 
-document.write('dsfds');
+document.write('dsfds');  
+console.log("adfds");
